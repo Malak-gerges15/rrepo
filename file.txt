@@ -1,2 +1,3 @@
 first lin file.txt 
 second line in file1.txt
+third line in file1.txt
